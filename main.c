@@ -1,4 +1,4 @@
-// Copyright Filip Popa ~ ACS 313CAb 2023
+// Copyright Filip Popa ~ ACS 313CAb 2023-2024
 
 #include <stdio.h>
 #include <string.h>
