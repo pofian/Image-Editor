@@ -1,6 +1,3 @@
-**Popa Filip-Andrei**  
-**313CAb 2023**
-
 ## Image Editor
 
 ### Description:
